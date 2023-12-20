@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "UBvnNYfPMX/CAkx/dGCTT0gmTyYyV+czkK7jOCN7kv4=",
+  "Source": "ToDo",
+  "BasePath": "_content/ToDo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ToDo\\wwwroot",
+      "Source": "ToDo",
+      "ContentRoot": "C:\\Users\\users\\Documents\\Programing\\C#\\ToDoApp\\ToDo\\ToDo\\wwwroot\\",
+      "BasePath": "_content/ToDo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
